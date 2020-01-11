@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da347ab2-b2c2-4fc2-81d2-9a6abed2da8e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1WGLW0XPjrmuj7tpob4mfSUBd9M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="ReplState" timestamp="1578943310280">{:repl-history {:ide [], :local [{:command &quot;conn&quot;, :offset 4, :ns &quot;datomic-demo.core&quot;} {:command &quot;first-act&quot;, :offset 9, :ns &quot;datomic-demo.core&quot;} {:command &quot;(first-act)&quot;, :offset 11, :ns &quot;datomic-demo.core&quot;} {:command &quot;(setup-db)&quot;, :offset 10, :ns &quot;datomic-demo.core&quot;} {:command &quot;(insert)&quot;, :offset 8, :ns &quot;datomic-demo.core&quot;} {:command &quot;(insert-data)&quot;, :offset 13, :ns &quot;datomic-demo.core&quot;} {:command &quot;(assert-movie)&quot;, :offset 14, :ns &quot;datomic-demo.core&quot;} {:command &quot;(query-data)&quot;, :offset 12, :ns &quot;datomic-demo.core&quot;}], :remote []}}</component>
+  <component name="RunManager">
+    <configuration name="REPL for datomic-demo" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <module name="datomic-demo" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="fixLineNumbers" value="false" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da347ab2-b2c2-4fc2-81d2-9a6abed2da8e" name="Default Changelist" comment="" />
+      <created>1578771012951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578771012951</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="699" y="99" width="706" height="979" key="#REPL_for_datomic-demo" timestamp="1578776656438">
+      <screen x="67" y="27" width="1981" height="1125" />
+    </state>
+    <state x="699" y="99" width="706" height="979" key="#REPL_for_datomic-demo/67.27.1981.1125@67.27.1981.1125" timestamp="1578776656438" />
+    <state x="740" y="316" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578825515364">
+      <screen x="67" y="27" width="1981" height="1125" />
+    </state>
+    <state x="740" y="316" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/67.27.1981.1125@67.27.1981.1125" timestamp="1578825515364" />
+    <state x="640" y="334" width="814" height="520" key="IDE.errors.dialog" timestamp="1578942955522">
+      <screen x="67" y="27" width="1981" height="1125" />
+    </state>
+    <state x="640" y="334" width="814" height="520" key="IDE.errors.dialog/67.27.1981.1125@67.27.1981.1125" timestamp="1578942955522" />
+    <state x="546" y="223" key="SettingsEditor" timestamp="1578771279921">
+      <screen x="67" y="27" width="1981" height="1125" />
+    </state>
+    <state x="546" y="223" key="SettingsEditor/67.27.1981.1125@67.27.1981.1125" timestamp="1578771279921" />
+  </component>
+</project>
